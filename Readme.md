@@ -8,7 +8,7 @@ This project is an end-to-end UI test automation framework built with [Playwrigh
 ## 📁 Project Structure
 
 ```
-PlaywrightAgain/
+PlaywrightRepo/
 ├── node_modules/
 ├── pages/
 │   ├── CartPage.ts
